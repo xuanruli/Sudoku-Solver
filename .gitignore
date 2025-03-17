@@ -2,3 +2,4 @@ homework5.pdf
 .DS_Store
 __pycache__/
 .idea/
+sudoku_gui.py
